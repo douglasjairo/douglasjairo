@@ -1,8 +1,8 @@
 =    sobre  mim
-- 👋 Hi, I’m @douglasjairo   
--   👍:+1=  meu gmail  de  contato  e  douglas.jairodorosario.santos@escola.pr.gov.br
+- 👋 ola meu nome e @douglasjairo   
+- 👍:+1=  meu gmail  de  contato  e  douglas.jairodorosario.santos@escola.pr.gov.br
 - 👀 I’m interested in  aprender a progamar  novas linguagens
-- 🌱 I’m currently learning a progamar  recentemente  a  linguagem  de javascript  e  scratch
+- 🌱 estou aprendendo a progamar  recentemente  a  linguagem  de javascript  e  scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
